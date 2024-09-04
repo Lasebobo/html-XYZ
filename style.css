@@ -110,4 +110,8 @@ flex-direction: column;
     .featurespics1 {
         width: 300px;
     }
+    .carousel-item {
+        width: 100%;
+        height: 340px;
+    }
 }
